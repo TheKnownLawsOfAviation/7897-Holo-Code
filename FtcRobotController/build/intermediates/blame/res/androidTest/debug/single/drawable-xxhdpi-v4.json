@@ -1,5 +1,9 @@
 [
     {
+        "merged": "C:\\Users\\7897\\Documents\\GitHub\\7897-Holo-Code\\FtcRobotController\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\7897\\Documents\\GitHub\\7897-Holo-Code\\FtcRobotController\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\ic_launcher.png"
+    },
+    {
         "merged": "C:\\Users\\7897\\Documents\\Programming\\ftc_app-master\\ftc_app-master\\FtcRobotController\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\ic_launcher.png",
         "source": "C:\\Users\\7897\\Documents\\Programming\\ftc_app-master\\ftc_app-master\\FtcRobotController\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\ic_launcher.png"
     },

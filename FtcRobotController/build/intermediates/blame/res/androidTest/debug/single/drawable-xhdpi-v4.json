@@ -4,8 +4,16 @@
         "source": "C:\\Users\\7897\\Documents\\Programming\\ftc_app-master\\FtcRobotController\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\icon_menu.png"
     },
     {
+        "merged": "C:\\Users\\7897\\Documents\\GitHub\\7897-Holo-Code\\FtcRobotController\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\7897\\Documents\\GitHub\\7897-Holo-Code\\FtcRobotController\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ic_launcher.png"
+    },
+    {
         "merged": "C:\\Users\\7897\\Documents\\Programming\\ftc_app-master\\FtcRobotController\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\ic_launcher.png",
         "source": "C:\\Users\\7897\\Documents\\Programming\\ftc_app-master\\FtcRobotController\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\7897\\Documents\\GitHub\\7897-Holo-Code\\FtcRobotController\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\icon_robotcontroller.png",
+        "source": "C:\\Users\\7897\\Documents\\GitHub\\7897-Holo-Code\\FtcRobotController\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\icon_robotcontroller.png"
     },
     {
         "merged": "C:\\Users\\7897\\Documents\\Programming\\ftc_app-master\\FtcRobotController\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\icon_robotcontroller.png",
@@ -14,6 +22,10 @@
     {
         "merged": "C:\\Users\\7897\\Documents\\Programming\\ftc_app-master\\ftc_app-master\\FtcRobotController\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\ic_launcher.png",
         "source": "C:\\Users\\7897\\Documents\\Programming\\ftc_app-master\\ftc_app-master\\FtcRobotController\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\7897\\Documents\\GitHub\\7897-Holo-Code\\FtcRobotController\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\icon_menu.png",
+        "source": "C:\\Users\\7897\\Documents\\GitHub\\7897-Holo-Code\\FtcRobotController\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\icon_menu.png"
     },
     {
         "merged": "C:\\Users\\7897\\Documents\\Programming\\ftc_app-master\\ftc_app-master\\FtcRobotController\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\icon_robotcontroller.png",

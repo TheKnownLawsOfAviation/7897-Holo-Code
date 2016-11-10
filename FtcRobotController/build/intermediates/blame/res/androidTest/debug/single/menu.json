@@ -12,6 +12,10 @@
         "source": "C:\\Users\\7897\\Documents\\Programming\\ftc_app-master\\FtcRobotController\\build\\intermediates\\bundles\\debug\\res\\menu\\ftc_robot_controller.xml"
     },
     {
+        "merged": "C:\\Users\\7897\\Documents\\GitHub\\7897-Holo-Code\\FtcRobotController\\build\\intermediates\\res\\merged\\androidTest\\debug\\menu\\main_menu.xml",
+        "source": "C:\\Users\\7897\\Documents\\GitHub\\7897-Holo-Code\\FtcRobotController\\build\\intermediates\\exploded-aar\\Inspection-release\\res\\menu\\main_menu.xml"
+    },
+    {
         "merged": "C:\\Users\\7897\\Documents\\Programming\\ftc_app-master\\ftc_app-master\\FtcRobotController\\build\\intermediates\\res\\merged\\androidTest\\debug\\menu\\ftc_robot_controller.xml",
         "source": "C:\\Users\\7897\\Documents\\Programming\\ftc_app-master\\ftc_app-master\\FtcRobotController\\build\\intermediates\\bundles\\debug\\res\\menu\\ftc_robot_controller.xml"
     },
@@ -22,5 +26,13 @@
     {
         "merged": "C:\\Users\\7897\\Documents\\Programming\\ftc_app-master\\ftc_app-master\\FtcRobotController\\build\\intermediates\\res\\merged\\androidTest\\debug\\menu\\main_menu.xml",
         "source": "C:\\Users\\7897\\Documents\\Programming\\ftc_app-master\\ftc_app-master\\FtcRobotController\\build\\intermediates\\exploded-aar\\Inspection-release\\res\\menu\\main_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\7897\\Documents\\GitHub\\7897-Holo-Code\\FtcRobotController\\build\\intermediates\\res\\merged\\androidTest\\debug\\menu\\menu_server.xml",
+        "source": "C:\\Users\\7897\\Documents\\GitHub\\7897-Holo-Code\\FtcRobotController\\build\\intermediates\\exploded-aar\\Blocks-release\\res\\menu\\menu_server.xml"
+    },
+    {
+        "merged": "C:\\Users\\7897\\Documents\\GitHub\\7897-Holo-Code\\FtcRobotController\\build\\intermediates\\res\\merged\\androidTest\\debug\\menu\\ftc_robot_controller.xml",
+        "source": "C:\\Users\\7897\\Documents\\GitHub\\7897-Holo-Code\\FtcRobotController\\build\\intermediates\\bundles\\debug\\res\\menu\\ftc_robot_controller.xml"
     }
 ]
