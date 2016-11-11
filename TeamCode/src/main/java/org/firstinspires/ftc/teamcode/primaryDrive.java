@@ -1,4 +1,5 @@
-package org.firstinspires.ftc.teamcode;/*
+package org.firstinspires.ftc.teamcode;
+
 /**
 Copyright (c) 2016 Robert Atkinson
 
@@ -63,7 +64,7 @@ import org.firstinspires.ftc.robotcontroller.external.samples.HardwarePushbot;
  */
 @TeleOp(name="Holonomic9")
 public class primaryDrive extends LinearOpMode {
-
+        HardwarePushbot robot = new HardwarePushbot();
         DcMotor motor1;
         DcMotor motor2;
         DcMotor motor3;
@@ -80,9 +81,11 @@ public class primaryDrive extends LinearOpMode {
         motor2.setDirection(DcMotor.Direction.FORWARD);
         motor3.setDirection(DcMotor.Direction.FORWARD);
         motor4.setDirection(DcMotor.Direction.FORWARD);
+        robot.init(hardwareMap);
         telemetry.addData("Say", "Holonomic Ready...");    //
         telemetry.update();
         waitForStart();
+
         while (opModeIsActive()) {
             double JLX = gamepad1.left_stick_x * 200;
             double JLY = gamepad1.left_stick_y * 200;
@@ -102,6 +105,7 @@ public class primaryDrive extends LinearOpMode {
             motor4.setPower(motor4power);
             telemetry.addData("Say", "Motor Powers = " + motor1power + "," + motor2power + ","  + motor3power + "," + motor4power);
             telemetry.update();
+            robot.waitForTick(40);
         }
     }
 }

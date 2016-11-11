@@ -5,32 +5,32 @@
     density="hdpi"
     format="8"
     plugin-version="2.2.1"
-    timestamp="382216773162930"
-    token="5777384702660277861"
+    timestamp="7232161522975"
+    token="6548985243457148667"
     verifier="FULL_BUILD_REQUESTED" >
 
     <task
         name="javac"
-        duration="263" />
+        duration="0" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="583" />
+        duration="0" />
     <task
         name="verifier"
-        duration="124" />
+        duration="0" />
 
     <artifact
-        location="C:\Users\7897\Documents\Programming\ftc_app-master\TeamCode\build\outputs\apk\TeamCode-debug.apk"
+        location="C:\Users\7897\Documents\GitHub\7897-Holo-Code\TeamCode\build\outputs\apk\TeamCode-debug.apk"
         type="MAIN" />
 
     <build
-        timestamp="382216773162930"
+        timestamp="385217096593508"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
-            location="C:\Users\7897\Documents\Programming\ftc_app-master\TeamCode\build\outputs\apk\TeamCode-debug.apk"
+            location="C:\Users\7897\Documents\GitHub\7897-Holo-Code\TeamCode\build\outputs\apk\TeamCode-debug.apk"
             type="MAIN" />
     </build>
 
