@@ -1,7 +1,15 @@
 [
     {
+        "merged": "C:\\Users\\JEDAM\\Documents\\GitHub\\7897-Holo-Code\\FtcRobotController\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\button_shape.xml",
+        "source": "C:\\Users\\JEDAM\\Documents\\GitHub\\7897-Holo-Code\\FtcRobotController\\build\\intermediates\\exploded-aar\\FtcCommon-release\\res\\drawable-hdpi-v4\\button_shape.xml"
+    },
+    {
         "merged": "C:\\Users\\7897\\Documents\\GitHub\\7897-Holo-Code\\FtcRobotController\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\button_shape.xml",
         "source": "C:\\Users\\7897\\Documents\\GitHub\\7897-Holo-Code\\FtcRobotController\\build\\intermediates\\exploded-aar\\FtcCommon-release\\res\\drawable-hdpi-v4\\button_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\JEDAM\\Documents\\GitHub\\7897-Holo-Code\\FtcRobotController\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\JEDAM\\Documents\\GitHub\\7897-Holo-Code\\FtcRobotController\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\ic_launcher.png"
     },
     {
         "merged": "C:\\Users\\7897\\Documents\\Programming\\ftc_app-master\\FtcRobotController\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\ic_launcher.png",

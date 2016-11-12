@@ -8,20 +8,16 @@
         "source": "C:\\Users\\7897\\Documents\\Programming\\ftc_app-master\\ftc_app-master\\FtcRobotController\\build\\intermediates\\exploded-aar\\FtcCommon-release\\res\\xml\\pushbotsens.xml"
     },
     {
-        "merged": "C:\\Users\\7897\\Documents\\GitHub\\7897-Holo-Code\\FtcRobotController\\build\\intermediates\\res\\merged\\debug\\xml\\squarebot.xml",
-        "source": "C:\\Users\\7897\\Documents\\GitHub\\7897-Holo-Code\\FtcRobotController\\build\\intermediates\\exploded-aar\\FtcCommon-release\\res\\xml\\squarebot.xml"
-    },
-    {
         "merged": "C:\\Users\\7897\\Documents\\Programming\\ftc_app-master\\FtcRobotController\\build\\intermediates\\res\\merged\\debug\\xml\\preferences.xml",
         "source": "C:\\Users\\7897\\Documents\\Programming\\ftc_app-master\\FtcRobotController\\src\\main\\res\\xml\\preferences.xml"
     },
     {
-        "merged": "C:\\Users\\7897\\Documents\\GitHub\\7897-Holo-Code\\FtcRobotController\\build\\intermediates\\res\\merged\\debug\\xml\\preferences.xml",
-        "source": "C:\\Users\\7897\\Documents\\GitHub\\7897-Holo-Code\\FtcRobotController\\src\\main\\res\\xml\\preferences.xml"
-    },
-    {
         "merged": "C:\\Users\\7897\\Documents\\Programming\\ftc_app-master\\FtcRobotController\\build\\intermediates\\res\\merged\\debug\\xml\\pushbot.xml",
         "source": "C:\\Users\\7897\\Documents\\Programming\\ftc_app-master\\FtcRobotController\\build\\intermediates\\exploded-aar\\FtcCommon-release\\res\\xml\\pushbot.xml"
+    },
+    {
+        "merged": "C:\\Users\\JEDAM\\Documents\\GitHub\\7897-Holo-Code\\FtcRobotController\\build\\intermediates\\res\\merged\\debug\\xml\\device_filter.xml",
+        "source": "C:\\Users\\JEDAM\\Documents\\GitHub\\7897-Holo-Code\\FtcRobotController\\src\\main\\res\\xml\\device_filter.xml"
     },
     {
         "merged": "C:\\Users\\7897\\Documents\\Programming\\ftc_app-master\\FtcRobotController\\build\\intermediates\\res\\merged\\debug\\xml\\k9legacybot.xml",
@@ -36,16 +32,48 @@
         "source": "C:\\Users\\7897\\Documents\\Programming\\ftc_app-master\\ftc_app-master\\FtcRobotController\\build\\intermediates\\exploded-aar\\FtcCommon-release\\res\\xml\\squarebot.xml"
     },
     {
-        "merged": "C:\\Users\\7897\\Documents\\GitHub\\7897-Holo-Code\\FtcRobotController\\build\\intermediates\\res\\merged\\debug\\xml\\k9legacybot.xml",
-        "source": "C:\\Users\\7897\\Documents\\GitHub\\7897-Holo-Code\\FtcRobotController\\build\\intermediates\\exploded-aar\\FtcCommon-release\\res\\xml\\k9legacybot.xml"
-    },
-    {
         "merged": "C:\\Users\\7897\\Documents\\Programming\\ftc_app-master\\FtcRobotController\\build\\intermediates\\res\\merged\\debug\\xml\\pushbotsens.xml",
         "source": "C:\\Users\\7897\\Documents\\Programming\\ftc_app-master\\FtcRobotController\\build\\intermediates\\exploded-aar\\FtcCommon-release\\res\\xml\\pushbotsens.xml"
     },
     {
+        "merged": "C:\\Users\\JEDAM\\Documents\\GitHub\\7897-Holo-Code\\FtcRobotController\\build\\intermediates\\res\\merged\\debug\\xml\\preferences.xml",
+        "source": "C:\\Users\\JEDAM\\Documents\\GitHub\\7897-Holo-Code\\FtcRobotController\\src\\main\\res\\xml\\preferences.xml"
+    },
+    {
         "merged": "C:\\Users\\7897\\Documents\\Programming\\ftc_app-master\\ftc_app-master\\FtcRobotController\\build\\intermediates\\res\\merged\\debug\\xml\\pushbot.xml",
         "source": "C:\\Users\\7897\\Documents\\Programming\\ftc_app-master\\ftc_app-master\\FtcRobotController\\build\\intermediates\\exploded-aar\\FtcCommon-release\\res\\xml\\pushbot.xml"
+    },
+    {
+        "merged": "C:\\Users\\7897\\Documents\\Programming\\ftc_app-master\\FtcRobotController\\build\\intermediates\\res\\merged\\debug\\xml\\device_filter.xml",
+        "source": "C:\\Users\\7897\\Documents\\Programming\\ftc_app-master\\FtcRobotController\\src\\main\\res\\xml\\device_filter.xml"
+    },
+    {
+        "merged": "C:\\Users\\7897\\Documents\\Programming\\ftc_app-master\\ftc_app-master\\FtcRobotController\\build\\intermediates\\res\\merged\\debug\\xml\\k9legacybot.xml",
+        "source": "C:\\Users\\7897\\Documents\\Programming\\ftc_app-master\\ftc_app-master\\FtcRobotController\\build\\intermediates\\exploded-aar\\FtcCommon-release\\res\\xml\\k9legacybot.xml"
+    },
+    {
+        "merged": "C:\\Users\\JEDAM\\Documents\\GitHub\\7897-Holo-Code\\FtcRobotController\\build\\intermediates\\res\\merged\\debug\\xml\\squarebot.xml",
+        "source": "C:\\Users\\JEDAM\\Documents\\GitHub\\7897-Holo-Code\\FtcRobotController\\build\\intermediates\\exploded-aar\\FtcCommon-release\\res\\xml\\squarebot.xml"
+    },
+    {
+        "merged": "C:\\Users\\7897\\Documents\\Programming\\ftc_app-master\\ftc_app-master\\FtcRobotController\\build\\intermediates\\res\\merged\\debug\\xml\\k9usbbot.xml",
+        "source": "C:\\Users\\7897\\Documents\\Programming\\ftc_app-master\\ftc_app-master\\FtcRobotController\\build\\intermediates\\exploded-aar\\FtcCommon-release\\res\\xml\\k9usbbot.xml"
+    },
+    {
+        "merged": "C:\\Users\\7897\\Documents\\GitHub\\7897-Holo-Code\\FtcRobotController\\build\\intermediates\\res\\merged\\debug\\xml\\squarebot.xml",
+        "source": "C:\\Users\\7897\\Documents\\GitHub\\7897-Holo-Code\\FtcRobotController\\build\\intermediates\\exploded-aar\\FtcCommon-release\\res\\xml\\squarebot.xml"
+    },
+    {
+        "merged": "C:\\Users\\7897\\Documents\\GitHub\\7897-Holo-Code\\FtcRobotController\\build\\intermediates\\res\\merged\\debug\\xml\\preferences.xml",
+        "source": "C:\\Users\\7897\\Documents\\GitHub\\7897-Holo-Code\\FtcRobotController\\src\\main\\res\\xml\\preferences.xml"
+    },
+    {
+        "merged": "C:\\Users\\JEDAM\\Documents\\GitHub\\7897-Holo-Code\\FtcRobotController\\build\\intermediates\\res\\merged\\debug\\xml\\k9legacybot.xml",
+        "source": "C:\\Users\\JEDAM\\Documents\\GitHub\\7897-Holo-Code\\FtcRobotController\\build\\intermediates\\exploded-aar\\FtcCommon-release\\res\\xml\\k9legacybot.xml"
+    },
+    {
+        "merged": "C:\\Users\\7897\\Documents\\GitHub\\7897-Holo-Code\\FtcRobotController\\build\\intermediates\\res\\merged\\debug\\xml\\k9legacybot.xml",
+        "source": "C:\\Users\\7897\\Documents\\GitHub\\7897-Holo-Code\\FtcRobotController\\build\\intermediates\\exploded-aar\\FtcCommon-release\\res\\xml\\k9legacybot.xml"
     },
     {
         "merged": "C:\\Users\\7897\\Documents\\Programming\\ftc_app-master\\ftc_app-master\\FtcRobotController\\build\\intermediates\\res\\merged\\debug\\xml\\device_filter.xml",
@@ -56,8 +84,8 @@
         "source": "C:\\Users\\7897\\Documents\\GitHub\\7897-Holo-Code\\FtcRobotController\\build\\intermediates\\exploded-aar\\FtcCommon-release\\res\\xml\\pushbotsens.xml"
     },
     {
-        "merged": "C:\\Users\\7897\\Documents\\Programming\\ftc_app-master\\FtcRobotController\\build\\intermediates\\res\\merged\\debug\\xml\\device_filter.xml",
-        "source": "C:\\Users\\7897\\Documents\\Programming\\ftc_app-master\\FtcRobotController\\src\\main\\res\\xml\\device_filter.xml"
+        "merged": "C:\\Users\\JEDAM\\Documents\\GitHub\\7897-Holo-Code\\FtcRobotController\\build\\intermediates\\res\\merged\\debug\\xml\\pushbot.xml",
+        "source": "C:\\Users\\JEDAM\\Documents\\GitHub\\7897-Holo-Code\\FtcRobotController\\build\\intermediates\\exploded-aar\\FtcCommon-release\\res\\xml\\pushbot.xml"
     },
     {
         "merged": "C:\\Users\\7897\\Documents\\GitHub\\7897-Holo-Code\\FtcRobotController\\build\\intermediates\\res\\merged\\debug\\xml\\device_filter.xml",
@@ -68,19 +96,19 @@
         "source": "C:\\Users\\7897\\Documents\\GitHub\\7897-Holo-Code\\FtcRobotController\\build\\intermediates\\exploded-aar\\FtcCommon-release\\res\\xml\\pushbot.xml"
     },
     {
+        "merged": "C:\\Users\\JEDAM\\Documents\\GitHub\\7897-Holo-Code\\FtcRobotController\\build\\intermediates\\res\\merged\\debug\\xml\\k9usbbot.xml",
+        "source": "C:\\Users\\JEDAM\\Documents\\GitHub\\7897-Holo-Code\\FtcRobotController\\build\\intermediates\\exploded-aar\\FtcCommon-release\\res\\xml\\k9usbbot.xml"
+    },
+    {
         "merged": "C:\\Users\\7897\\Documents\\Programming\\ftc_app-master\\FtcRobotController\\build\\intermediates\\res\\merged\\debug\\xml\\k9usbbot.xml",
         "source": "C:\\Users\\7897\\Documents\\Programming\\ftc_app-master\\FtcRobotController\\build\\intermediates\\exploded-aar\\FtcCommon-release\\res\\xml\\k9usbbot.xml"
     },
     {
-        "merged": "C:\\Users\\7897\\Documents\\Programming\\ftc_app-master\\ftc_app-master\\FtcRobotController\\build\\intermediates\\res\\merged\\debug\\xml\\k9legacybot.xml",
-        "source": "C:\\Users\\7897\\Documents\\Programming\\ftc_app-master\\ftc_app-master\\FtcRobotController\\build\\intermediates\\exploded-aar\\FtcCommon-release\\res\\xml\\k9legacybot.xml"
+        "merged": "C:\\Users\\JEDAM\\Documents\\GitHub\\7897-Holo-Code\\FtcRobotController\\build\\intermediates\\res\\merged\\debug\\xml\\pushbotsens.xml",
+        "source": "C:\\Users\\JEDAM\\Documents\\GitHub\\7897-Holo-Code\\FtcRobotController\\build\\intermediates\\exploded-aar\\FtcCommon-release\\res\\xml\\pushbotsens.xml"
     },
     {
         "merged": "C:\\Users\\7897\\Documents\\GitHub\\7897-Holo-Code\\FtcRobotController\\build\\intermediates\\res\\merged\\debug\\xml\\k9usbbot.xml",
         "source": "C:\\Users\\7897\\Documents\\GitHub\\7897-Holo-Code\\FtcRobotController\\build\\intermediates\\exploded-aar\\FtcCommon-release\\res\\xml\\k9usbbot.xml"
-    },
-    {
-        "merged": "C:\\Users\\7897\\Documents\\Programming\\ftc_app-master\\ftc_app-master\\FtcRobotController\\build\\intermediates\\res\\merged\\debug\\xml\\k9usbbot.xml",
-        "source": "C:\\Users\\7897\\Documents\\Programming\\ftc_app-master\\ftc_app-master\\FtcRobotController\\build\\intermediates\\exploded-aar\\FtcCommon-release\\res\\xml\\k9usbbot.xml"
     }
 ]

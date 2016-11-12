@@ -70,6 +70,30 @@ public class primaryDrive extends LinearOpMode {
         DcMotor motor3;
         DcMotor motor4;
 
+
+    public void setMotorPower(double frontLeft, double frontRight, double backRight, double backLeft){
+        motor1.setPower(frontLeft);
+        motor2.setPower(frontRight);
+        motor3.setPower(backRight);
+        motor4.setPower(backLeft);
+    }
+    public void setMotorDirections(String frontDirection){
+
+        if (gamepad1.dpad_up && !frontDirection.equals("Forward")){
+            frontDirection = "Forward";
+
+        }
+        else if (gamepad1.dpad_left && !frontDirection.equals("Left")){
+            frontDirection = "Left";
+        }
+        else if (gamepad1.dpad_down && !frontDirection.equals("Backward")) {
+            frontDirection = "Backward";
+        }
+        else if (gamepad1.dpad_right && !frontDirection.equals("Right")){
+            frontDirection = "Right";
+        }
+
+    }
     @Override
     public void runOpMode() throws InterruptedException {
 
@@ -85,7 +109,9 @@ public class primaryDrive extends LinearOpMode {
         telemetry.addData("Say", "Holonomic Ready...");    //
         telemetry.update();
         waitForStart();
-
+        String frontDirection = "Forward";
+        double frontLeftPower = 0, frontRightPower = 0, backRightPower = 0, backLeftPower = 0;
+        double motor1power, motor2power, motor3power, motor4power;
         while (opModeIsActive()) {
             double JLX = gamepad1.left_stick_x * 200;
             double JLY = gamepad1.left_stick_y * 200;
@@ -93,16 +119,12 @@ public class primaryDrive extends LinearOpMode {
             if (JRX > -2 && JRX < 2) {
                 JRX = 0;
             }
-            double motor1power, motor2power, motor3power, motor4power;
             motor3power = ((-JLY - JLX) + JRX) * 1;
             motor1power = ((JLY - JLX) + JRX) * 1;
             motor2power = ((JLY + JLX) + JRX) * 1;
             motor4power = ((-JLY + JLX) + JRX) * 1;
             telemetry.addData("Say", "JRX = " + JRX);
-            motor3.setPower(motor3power);
-            motor1.setPower(motor1power);
-            motor2.setPower(motor2power);
-            motor4.setPower(motor4power);
+            telemetry.addData("Say", "Front Direction is " + frontDirection);
             telemetry.addData("Say", "Motor Powers = " + motor1power + "," + motor2power + ","  + motor3power + "," + motor4power);
             telemetry.update();
             robot.waitForTick(40);
