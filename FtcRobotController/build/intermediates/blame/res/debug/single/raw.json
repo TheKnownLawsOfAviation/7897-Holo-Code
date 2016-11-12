@@ -4,16 +4,120 @@
         "source": "C:\\Users\\7897\\Documents\\GitHub\\7897-Holo-Code\\FtcRobotController\\build\\intermediates\\exploded-aar\\RobotCore-release\\res\\raw\\simple_vertex_shader.glsl"
     },
     {
+        "merged": "C:\\Users\\7897\\Documents\\Programming\\ftc_app-master\\ftc_app-master\\FtcRobotController\\build\\intermediates\\res\\merged\\debug\\raw\\cube_mesh_vertex_shader.glsl",
+        "source": "C:\\Users\\7897\\Documents\\Programming\\ftc_app-master\\ftc_app-master\\FtcRobotController\\build\\intermediates\\exploded-aar\\RobotCore-release\\res\\raw\\cube_mesh_vertex_shader.glsl"
+    },
+    {
+        "merged": "E:\\Android Studio\\Workspace\\7897-Holo-Code\\FtcRobotController\\build\\intermediates\\res\\merged\\debug\\raw\\color_fragment_shader.glsl",
+        "source": "E:\\Android Studio\\Workspace\\7897-Holo-Code\\FtcRobotController\\build\\intermediates\\exploded-aar\\RobotCore-release\\res\\raw\\color_fragment_shader.glsl"
+    },
+    {
+        "merged": "C:\\Users\\7897\\Documents\\Programming\\ftc_app-master\\ftc_app-master\\FtcRobotController\\build\\intermediates\\res\\merged\\debug\\raw\\nxtstartupsound.wav",
+        "source": "C:\\Users\\7897\\Documents\\Programming\\ftc_app-master\\ftc_app-master\\FtcRobotController\\build\\intermediates\\exploded-aar\\FtcCommon-release\\res\\raw\\nxtstartupsound.wav"
+    },
+    {
+        "merged": "C:\\Users\\JEDAM\\Documents\\GitHub\\7897-Holo-Code\\FtcRobotController\\build\\intermediates\\res\\merged\\debug\\raw\\chimeconnect.wav",
+        "source": "C:\\Users\\JEDAM\\Documents\\GitHub\\7897-Holo-Code\\FtcRobotController\\build\\intermediates\\exploded-aar\\FtcCommon-release\\res\\raw\\chimeconnect.wav"
+    },
+    {
+        "merged": "C:\\Users\\JEDAM\\Documents\\GitHub\\7897-Holo-Code\\FtcRobotController\\build\\intermediates\\res\\merged\\debug\\raw\\cube_mesh_vertex_shader.glsl",
+        "source": "C:\\Users\\JEDAM\\Documents\\GitHub\\7897-Holo-Code\\FtcRobotController\\build\\intermediates\\exploded-aar\\RobotCore-release\\res\\raw\\cube_mesh_vertex_shader.glsl"
+    },
+    {
+        "merged": "C:\\Users\\JEDAM\\Documents\\GitHub\\7897-Holo-Code\\FtcRobotController\\build\\intermediates\\res\\merged\\debug\\raw\\color_fragment_shader.glsl",
+        "source": "C:\\Users\\JEDAM\\Documents\\GitHub\\7897-Holo-Code\\FtcRobotController\\build\\intermediates\\exploded-aar\\RobotCore-release\\res\\raw\\color_fragment_shader.glsl"
+    },
+    {
+        "merged": "C:\\Users\\7897\\Documents\\Programming\\ftc_app-master\\FtcRobotController\\build\\intermediates\\res\\merged\\debug\\raw\\color_fragment_shader.glsl",
+        "source": "C:\\Users\\7897\\Documents\\Programming\\ftc_app-master\\FtcRobotController\\build\\intermediates\\exploded-aar\\RobotCore-release\\res\\raw\\color_fragment_shader.glsl"
+    },
+    {
+        "merged": "C:\\Users\\7897\\Documents\\Programming\\ftc_app-master\\FtcRobotController\\build\\intermediates\\res\\merged\\debug\\raw\\cube_mesh_vertex_shader.glsl",
+        "source": "C:\\Users\\7897\\Documents\\Programming\\ftc_app-master\\FtcRobotController\\build\\intermediates\\exploded-aar\\RobotCore-release\\res\\raw\\cube_mesh_vertex_shader.glsl"
+    },
+    {
+        "merged": "C:\\Users\\7897\\Documents\\Programming\\ftc_app-master\\FtcRobotController\\build\\intermediates\\res\\merged\\debug\\raw\\texture_vertex_shader.glsl",
+        "source": "C:\\Users\\7897\\Documents\\Programming\\ftc_app-master\\FtcRobotController\\build\\intermediates\\exploded-aar\\RobotCore-release\\res\\raw\\texture_vertex_shader.glsl"
+    },
+    {
+        "merged": "C:\\Users\\7897\\Documents\\Programming\\ftc_app-master\\FtcRobotController\\build\\intermediates\\res\\merged\\debug\\raw\\chimeconnect.wav",
+        "source": "C:\\Users\\7897\\Documents\\Programming\\ftc_app-master\\FtcRobotController\\build\\intermediates\\exploded-aar\\FtcCommon-release\\res\\raw\\chimeconnect.wav"
+    },
+    {
+        "merged": "C:\\Users\\7897\\Documents\\GitHub\\7897-Holo-Code\\FtcRobotController\\build\\intermediates\\res\\merged\\debug\\raw\\color_fragment_shader.glsl",
+        "source": "C:\\Users\\7897\\Documents\\GitHub\\7897-Holo-Code\\FtcRobotController\\build\\intermediates\\exploded-aar\\RobotCore-release\\res\\raw\\color_fragment_shader.glsl"
+    },
+    {
+        "merged": "C:\\Users\\JEDAM\\Documents\\GitHub\\7897-Holo-Code\\FtcRobotController\\build\\intermediates\\res\\merged\\debug\\raw\\errormessage.wav",
+        "source": "C:\\Users\\JEDAM\\Documents\\GitHub\\7897-Holo-Code\\FtcRobotController\\build\\intermediates\\exploded-aar\\FtcCommon-release\\res\\raw\\errormessage.wav"
+    },
+    {
+        "merged": "E:\\Android Studio\\Workspace\\7897-Holo-Code\\FtcRobotController\\build\\intermediates\\res\\merged\\debug\\raw\\texture_fragment_shader.glsl",
+        "source": "E:\\Android Studio\\Workspace\\7897-Holo-Code\\FtcRobotController\\build\\intermediates\\exploded-aar\\RobotCore-release\\res\\raw\\texture_fragment_shader.glsl"
+    },
+    {
+        "merged": "C:\\Users\\7897\\Documents\\GitHub\\7897-Holo-Code\\FtcRobotController\\build\\intermediates\\res\\merged\\debug\\raw\\cube_mesh_fragment_shader.glsl",
+        "source": "C:\\Users\\7897\\Documents\\GitHub\\7897-Holo-Code\\FtcRobotController\\build\\intermediates\\exploded-aar\\RobotCore-release\\res\\raw\\cube_mesh_fragment_shader.glsl"
+    },
+    {
+        "merged": "C:\\Users\\7897\\Documents\\Programming\\ftc_app-master\\ftc_app-master\\FtcRobotController\\build\\intermediates\\res\\merged\\debug\\raw\\cube_mesh_fragment_shader.glsl",
+        "source": "C:\\Users\\7897\\Documents\\Programming\\ftc_app-master\\ftc_app-master\\FtcRobotController\\build\\intermediates\\exploded-aar\\RobotCore-release\\res\\raw\\cube_mesh_fragment_shader.glsl"
+    },
+    {
+        "merged": "C:\\Users\\JEDAM\\Documents\\GitHub\\7897-Holo-Code\\FtcRobotController\\build\\intermediates\\res\\merged\\debug\\raw\\chimedisconnect.wav",
+        "source": "C:\\Users\\JEDAM\\Documents\\GitHub\\7897-Holo-Code\\FtcRobotController\\build\\intermediates\\exploded-aar\\FtcCommon-release\\res\\raw\\chimedisconnect.wav"
+    },
+    {
+        "merged": "C:\\Users\\JEDAM\\Documents\\GitHub\\7897-Holo-Code\\FtcRobotController\\build\\intermediates\\res\\merged\\debug\\raw\\simple_vertex_shader.glsl",
+        "source": "C:\\Users\\JEDAM\\Documents\\GitHub\\7897-Holo-Code\\FtcRobotController\\build\\intermediates\\exploded-aar\\RobotCore-release\\res\\raw\\simple_vertex_shader.glsl"
+    },
+    {
+        "merged": "E:\\Android Studio\\Workspace\\7897-Holo-Code\\FtcRobotController\\build\\intermediates\\res\\merged\\debug\\raw\\warningmessage.wav",
+        "source": "E:\\Android Studio\\Workspace\\7897-Holo-Code\\FtcRobotController\\build\\intermediates\\exploded-aar\\FtcCommon-release\\res\\raw\\warningmessage.wav"
+    },
+    {
+        "merged": "C:\\Users\\JEDAM\\Documents\\GitHub\\7897-Holo-Code\\FtcRobotController\\build\\intermediates\\res\\merged\\debug\\raw\\texture_fragment_shader.glsl",
+        "source": "C:\\Users\\JEDAM\\Documents\\GitHub\\7897-Holo-Code\\FtcRobotController\\build\\intermediates\\exploded-aar\\RobotCore-release\\res\\raw\\texture_fragment_shader.glsl"
+    },
+    {
+        "merged": "E:\\Android Studio\\Workspace\\7897-Holo-Code\\FtcRobotController\\build\\intermediates\\res\\merged\\debug\\raw\\cube_mesh_fragment_shader.glsl",
+        "source": "E:\\Android Studio\\Workspace\\7897-Holo-Code\\FtcRobotController\\build\\intermediates\\exploded-aar\\RobotCore-release\\res\\raw\\cube_mesh_fragment_shader.glsl"
+    },
+    {
+        "merged": "C:\\Users\\7897\\Documents\\Programming\\ftc_app-master\\ftc_app-master\\FtcRobotController\\build\\intermediates\\res\\merged\\debug\\raw\\chimedisconnect.wav",
+        "source": "C:\\Users\\7897\\Documents\\Programming\\ftc_app-master\\ftc_app-master\\FtcRobotController\\build\\intermediates\\exploded-aar\\FtcCommon-release\\res\\raw\\chimedisconnect.wav"
+    },
+    {
+        "merged": "C:\\Users\\7897\\Documents\\GitHub\\7897-Holo-Code\\FtcRobotController\\build\\intermediates\\res\\merged\\debug\\raw\\texture_vertex_shader.glsl",
+        "source": "C:\\Users\\7897\\Documents\\GitHub\\7897-Holo-Code\\FtcRobotController\\build\\intermediates\\exploded-aar\\RobotCore-release\\res\\raw\\texture_vertex_shader.glsl"
+    },
+    {
+        "merged": "E:\\Android Studio\\Workspace\\7897-Holo-Code\\FtcRobotController\\build\\intermediates\\res\\merged\\debug\\raw\\chimeconnect.wav",
+        "source": "E:\\Android Studio\\Workspace\\7897-Holo-Code\\FtcRobotController\\build\\intermediates\\exploded-aar\\FtcCommon-release\\res\\raw\\chimeconnect.wav"
+    },
+    {
+        "merged": "C:\\Users\\7897\\Documents\\GitHub\\7897-Holo-Code\\FtcRobotController\\build\\intermediates\\res\\merged\\debug\\raw\\cube_mesh_vertex_shader.glsl",
+        "source": "C:\\Users\\7897\\Documents\\GitHub\\7897-Holo-Code\\FtcRobotController\\build\\intermediates\\exploded-aar\\RobotCore-release\\res\\raw\\cube_mesh_vertex_shader.glsl"
+    },
+    {
+        "merged": "C:\\Users\\JEDAM\\Documents\\GitHub\\7897-Holo-Code\\FtcRobotController\\build\\intermediates\\res\\merged\\debug\\raw\\texture_vertex_shader.glsl",
+        "source": "C:\\Users\\JEDAM\\Documents\\GitHub\\7897-Holo-Code\\FtcRobotController\\build\\intermediates\\exploded-aar\\RobotCore-release\\res\\raw\\texture_vertex_shader.glsl"
+    },
+    {
+        "merged": "C:\\Users\\7897\\Documents\\Programming\\ftc_app-master\\ftc_app-master\\FtcRobotController\\build\\intermediates\\res\\merged\\debug\\raw\\texture_vertex_shader.glsl",
+        "source": "C:\\Users\\7897\\Documents\\Programming\\ftc_app-master\\ftc_app-master\\FtcRobotController\\build\\intermediates\\exploded-aar\\RobotCore-release\\res\\raw\\texture_vertex_shader.glsl"
+    },
+    {
+        "merged": "C:\\Users\\7897\\Documents\\Programming\\ftc_app-master\\ftc_app-master\\FtcRobotController\\build\\intermediates\\res\\merged\\debug\\raw\\simple_vertex_shader.glsl",
+        "source": "C:\\Users\\7897\\Documents\\Programming\\ftc_app-master\\ftc_app-master\\FtcRobotController\\build\\intermediates\\exploded-aar\\RobotCore-release\\res\\raw\\simple_vertex_shader.glsl"
+    },
+    {
         "merged": "C:\\Users\\7897\\Documents\\GitHub\\7897-Holo-Code\\FtcRobotController\\build\\intermediates\\res\\merged\\debug\\raw\\texture_fragment_shader.glsl",
         "source": "C:\\Users\\7897\\Documents\\GitHub\\7897-Holo-Code\\FtcRobotController\\build\\intermediates\\exploded-aar\\RobotCore-release\\res\\raw\\texture_fragment_shader.glsl"
     },
     {
         "merged": "C:\\Users\\7897\\Documents\\Programming\\ftc_app-master\\FtcRobotController\\build\\intermediates\\res\\merged\\debug\\raw\\texture_fragment_shader.glsl",
         "source": "C:\\Users\\7897\\Documents\\Programming\\ftc_app-master\\FtcRobotController\\build\\intermediates\\exploded-aar\\RobotCore-release\\res\\raw\\texture_fragment_shader.glsl"
-    },
-    {
-        "merged": "C:\\Users\\7897\\Documents\\Programming\\ftc_app-master\\ftc_app-master\\FtcRobotController\\build\\intermediates\\res\\merged\\debug\\raw\\cube_mesh_vertex_shader.glsl",
-        "source": "C:\\Users\\7897\\Documents\\Programming\\ftc_app-master\\ftc_app-master\\FtcRobotController\\build\\intermediates\\exploded-aar\\RobotCore-release\\res\\raw\\cube_mesh_vertex_shader.glsl"
     },
     {
         "merged": "C:\\Users\\7897\\Documents\\Programming\\ftc_app-master\\ftc_app-master\\FtcRobotController\\build\\intermediates\\res\\merged\\debug\\raw\\color_fragment_shader.glsl",
@@ -36,56 +140,36 @@
         "source": "C:\\Users\\JEDAM\\Documents\\GitHub\\7897-Holo-Code\\FtcRobotController\\build\\intermediates\\exploded-aar\\RobotCore-release\\res\\raw\\cube_mesh_fragment_shader.glsl"
     },
     {
-        "merged": "C:\\Users\\7897\\Documents\\Programming\\ftc_app-master\\ftc_app-master\\FtcRobotController\\build\\intermediates\\res\\merged\\debug\\raw\\nxtstartupsound.wav",
-        "source": "C:\\Users\\7897\\Documents\\Programming\\ftc_app-master\\ftc_app-master\\FtcRobotController\\build\\intermediates\\exploded-aar\\FtcCommon-release\\res\\raw\\nxtstartupsound.wav"
-    },
-    {
         "merged": "C:\\Users\\7897\\Documents\\Programming\\ftc_app-master\\FtcRobotController\\build\\intermediates\\res\\merged\\debug\\raw\\chimedisconnect.wav",
         "source": "C:\\Users\\7897\\Documents\\Programming\\ftc_app-master\\FtcRobotController\\build\\intermediates\\exploded-aar\\FtcCommon-release\\res\\raw\\chimedisconnect.wav"
-    },
-    {
-        "merged": "C:\\Users\\JEDAM\\Documents\\GitHub\\7897-Holo-Code\\FtcRobotController\\build\\intermediates\\res\\merged\\debug\\raw\\chimeconnect.wav",
-        "source": "C:\\Users\\JEDAM\\Documents\\GitHub\\7897-Holo-Code\\FtcRobotController\\build\\intermediates\\exploded-aar\\FtcCommon-release\\res\\raw\\chimeconnect.wav"
-    },
-    {
-        "merged": "C:\\Users\\JEDAM\\Documents\\GitHub\\7897-Holo-Code\\FtcRobotController\\build\\intermediates\\res\\merged\\debug\\raw\\cube_mesh_vertex_shader.glsl",
-        "source": "C:\\Users\\JEDAM\\Documents\\GitHub\\7897-Holo-Code\\FtcRobotController\\build\\intermediates\\exploded-aar\\RobotCore-release\\res\\raw\\cube_mesh_vertex_shader.glsl"
     },
     {
         "merged": "C:\\Users\\7897\\Documents\\Programming\\ftc_app-master\\ftc_app-master\\FtcRobotController\\build\\intermediates\\res\\merged\\debug\\raw\\texture_fragment_shader.glsl",
         "source": "C:\\Users\\7897\\Documents\\Programming\\ftc_app-master\\ftc_app-master\\FtcRobotController\\build\\intermediates\\exploded-aar\\RobotCore-release\\res\\raw\\texture_fragment_shader.glsl"
     },
     {
-        "merged": "C:\\Users\\JEDAM\\Documents\\GitHub\\7897-Holo-Code\\FtcRobotController\\build\\intermediates\\res\\merged\\debug\\raw\\color_fragment_shader.glsl",
-        "source": "C:\\Users\\JEDAM\\Documents\\GitHub\\7897-Holo-Code\\FtcRobotController\\build\\intermediates\\exploded-aar\\RobotCore-release\\res\\raw\\color_fragment_shader.glsl"
-    },
-    {
         "merged": "C:\\Users\\7897\\Documents\\Programming\\ftc_app-master\\ftc_app-master\\FtcRobotController\\build\\intermediates\\res\\merged\\debug\\raw\\errormessage.wav",
         "source": "C:\\Users\\7897\\Documents\\Programming\\ftc_app-master\\ftc_app-master\\FtcRobotController\\build\\intermediates\\exploded-aar\\FtcCommon-release\\res\\raw\\errormessage.wav"
+    },
+    {
+        "merged": "E:\\Android Studio\\Workspace\\7897-Holo-Code\\FtcRobotController\\build\\intermediates\\res\\merged\\debug\\raw\\texture_vertex_shader.glsl",
+        "source": "E:\\Android Studio\\Workspace\\7897-Holo-Code\\FtcRobotController\\build\\intermediates\\exploded-aar\\RobotCore-release\\res\\raw\\texture_vertex_shader.glsl"
+    },
+    {
+        "merged": "E:\\Android Studio\\Workspace\\7897-Holo-Code\\FtcRobotController\\build\\intermediates\\res\\merged\\debug\\raw\\chimedisconnect.wav",
+        "source": "E:\\Android Studio\\Workspace\\7897-Holo-Code\\FtcRobotController\\build\\intermediates\\exploded-aar\\FtcCommon-release\\res\\raw\\chimedisconnect.wav"
     },
     {
         "merged": "C:\\Users\\7897\\Documents\\Programming\\ftc_app-master\\FtcRobotController\\build\\intermediates\\res\\merged\\debug\\raw\\errormessage.wav",
         "source": "C:\\Users\\7897\\Documents\\Programming\\ftc_app-master\\FtcRobotController\\build\\intermediates\\exploded-aar\\FtcCommon-release\\res\\raw\\errormessage.wav"
     },
     {
-        "merged": "C:\\Users\\7897\\Documents\\Programming\\ftc_app-master\\FtcRobotController\\build\\intermediates\\res\\merged\\debug\\raw\\color_fragment_shader.glsl",
-        "source": "C:\\Users\\7897\\Documents\\Programming\\ftc_app-master\\FtcRobotController\\build\\intermediates\\exploded-aar\\RobotCore-release\\res\\raw\\color_fragment_shader.glsl"
-    },
-    {
         "merged": "C:\\Users\\7897\\Documents\\GitHub\\7897-Holo-Code\\FtcRobotController\\build\\intermediates\\res\\merged\\debug\\raw\\errormessage.wav",
         "source": "C:\\Users\\7897\\Documents\\GitHub\\7897-Holo-Code\\FtcRobotController\\build\\intermediates\\exploded-aar\\FtcCommon-release\\res\\raw\\errormessage.wav"
     },
     {
-        "merged": "C:\\Users\\7897\\Documents\\Programming\\ftc_app-master\\FtcRobotController\\build\\intermediates\\res\\merged\\debug\\raw\\cube_mesh_vertex_shader.glsl",
-        "source": "C:\\Users\\7897\\Documents\\Programming\\ftc_app-master\\FtcRobotController\\build\\intermediates\\exploded-aar\\RobotCore-release\\res\\raw\\cube_mesh_vertex_shader.glsl"
-    },
-    {
-        "merged": "C:\\Users\\7897\\Documents\\Programming\\ftc_app-master\\FtcRobotController\\build\\intermediates\\res\\merged\\debug\\raw\\texture_vertex_shader.glsl",
-        "source": "C:\\Users\\7897\\Documents\\Programming\\ftc_app-master\\FtcRobotController\\build\\intermediates\\exploded-aar\\RobotCore-release\\res\\raw\\texture_vertex_shader.glsl"
-    },
-    {
-        "merged": "C:\\Users\\7897\\Documents\\Programming\\ftc_app-master\\FtcRobotController\\build\\intermediates\\res\\merged\\debug\\raw\\chimeconnect.wav",
-        "source": "C:\\Users\\7897\\Documents\\Programming\\ftc_app-master\\FtcRobotController\\build\\intermediates\\exploded-aar\\FtcCommon-release\\res\\raw\\chimeconnect.wav"
+        "merged": "E:\\Android Studio\\Workspace\\7897-Holo-Code\\FtcRobotController\\build\\intermediates\\res\\merged\\debug\\raw\\simple_vertex_shader.glsl",
+        "source": "E:\\Android Studio\\Workspace\\7897-Holo-Code\\FtcRobotController\\build\\intermediates\\exploded-aar\\RobotCore-release\\res\\raw\\simple_vertex_shader.glsl"
     },
     {
         "merged": "C:\\Users\\7897\\Documents\\Programming\\ftc_app-master\\ftc_app-master\\FtcRobotController\\build\\intermediates\\res\\merged\\debug\\raw\\chimeconnect.wav",
@@ -100,79 +184,39 @@
         "source": "C:\\Users\\7897\\Documents\\GitHub\\7897-Holo-Code\\FtcRobotController\\build\\intermediates\\exploded-aar\\FtcCommon-release\\res\\raw\\chimeconnect.wav"
     },
     {
-        "merged": "C:\\Users\\7897\\Documents\\GitHub\\7897-Holo-Code\\FtcRobotController\\build\\intermediates\\res\\merged\\debug\\raw\\color_fragment_shader.glsl",
-        "source": "C:\\Users\\7897\\Documents\\GitHub\\7897-Holo-Code\\FtcRobotController\\build\\intermediates\\exploded-aar\\RobotCore-release\\res\\raw\\color_fragment_shader.glsl"
-    },
-    {
-        "merged": "C:\\Users\\JEDAM\\Documents\\GitHub\\7897-Holo-Code\\FtcRobotController\\build\\intermediates\\res\\merged\\debug\\raw\\errormessage.wav",
-        "source": "C:\\Users\\JEDAM\\Documents\\GitHub\\7897-Holo-Code\\FtcRobotController\\build\\intermediates\\exploded-aar\\FtcCommon-release\\res\\raw\\errormessage.wav"
-    },
-    {
         "merged": "C:\\Users\\7897\\Documents\\Programming\\ftc_app-master\\FtcRobotController\\build\\intermediates\\res\\merged\\debug\\raw\\nxtstartupsound.wav",
         "source": "C:\\Users\\7897\\Documents\\Programming\\ftc_app-master\\FtcRobotController\\build\\intermediates\\exploded-aar\\FtcCommon-release\\res\\raw\\nxtstartupsound.wav"
     },
     {
-        "merged": "C:\\Users\\7897\\Documents\\GitHub\\7897-Holo-Code\\FtcRobotController\\build\\intermediates\\res\\merged\\debug\\raw\\cube_mesh_fragment_shader.glsl",
-        "source": "C:\\Users\\7897\\Documents\\GitHub\\7897-Holo-Code\\FtcRobotController\\build\\intermediates\\exploded-aar\\RobotCore-release\\res\\raw\\cube_mesh_fragment_shader.glsl"
-    },
-    {
-        "merged": "C:\\Users\\7897\\Documents\\Programming\\ftc_app-master\\ftc_app-master\\FtcRobotController\\build\\intermediates\\res\\merged\\debug\\raw\\cube_mesh_fragment_shader.glsl",
-        "source": "C:\\Users\\7897\\Documents\\Programming\\ftc_app-master\\ftc_app-master\\FtcRobotController\\build\\intermediates\\exploded-aar\\RobotCore-release\\res\\raw\\cube_mesh_fragment_shader.glsl"
+        "merged": "E:\\Android Studio\\Workspace\\7897-Holo-Code\\FtcRobotController\\build\\intermediates\\res\\merged\\debug\\raw\\errormessage.wav",
+        "source": "E:\\Android Studio\\Workspace\\7897-Holo-Code\\FtcRobotController\\build\\intermediates\\exploded-aar\\FtcCommon-release\\res\\raw\\errormessage.wav"
     },
     {
         "merged": "C:\\Users\\7897\\Documents\\Programming\\ftc_app-master\\FtcRobotController\\build\\intermediates\\res\\merged\\debug\\raw\\simple_vertex_shader.glsl",
         "source": "C:\\Users\\7897\\Documents\\Programming\\ftc_app-master\\FtcRobotController\\build\\intermediates\\exploded-aar\\RobotCore-release\\res\\raw\\simple_vertex_shader.glsl"
     },
     {
-        "merged": "C:\\Users\\JEDAM\\Documents\\GitHub\\7897-Holo-Code\\FtcRobotController\\build\\intermediates\\res\\merged\\debug\\raw\\chimedisconnect.wav",
-        "source": "C:\\Users\\JEDAM\\Documents\\GitHub\\7897-Holo-Code\\FtcRobotController\\build\\intermediates\\exploded-aar\\FtcCommon-release\\res\\raw\\chimedisconnect.wav"
-    },
-    {
-        "merged": "C:\\Users\\JEDAM\\Documents\\GitHub\\7897-Holo-Code\\FtcRobotController\\build\\intermediates\\res\\merged\\debug\\raw\\simple_vertex_shader.glsl",
-        "source": "C:\\Users\\JEDAM\\Documents\\GitHub\\7897-Holo-Code\\FtcRobotController\\build\\intermediates\\exploded-aar\\RobotCore-release\\res\\raw\\simple_vertex_shader.glsl"
-    },
-    {
         "merged": "C:\\Users\\7897\\Documents\\GitHub\\7897-Holo-Code\\FtcRobotController\\build\\intermediates\\res\\merged\\debug\\raw\\nxtstartupsound.wav",
         "source": "C:\\Users\\7897\\Documents\\GitHub\\7897-Holo-Code\\FtcRobotController\\build\\intermediates\\exploded-aar\\FtcCommon-release\\res\\raw\\nxtstartupsound.wav"
-    },
-    {
-        "merged": "C:\\Users\\JEDAM\\Documents\\GitHub\\7897-Holo-Code\\FtcRobotController\\build\\intermediates\\res\\merged\\debug\\raw\\texture_fragment_shader.glsl",
-        "source": "C:\\Users\\JEDAM\\Documents\\GitHub\\7897-Holo-Code\\FtcRobotController\\build\\intermediates\\exploded-aar\\RobotCore-release\\res\\raw\\texture_fragment_shader.glsl"
-    },
-    {
-        "merged": "C:\\Users\\7897\\Documents\\Programming\\ftc_app-master\\ftc_app-master\\FtcRobotController\\build\\intermediates\\res\\merged\\debug\\raw\\chimedisconnect.wav",
-        "source": "C:\\Users\\7897\\Documents\\Programming\\ftc_app-master\\ftc_app-master\\FtcRobotController\\build\\intermediates\\exploded-aar\\FtcCommon-release\\res\\raw\\chimedisconnect.wav"
-    },
-    {
-        "merged": "C:\\Users\\7897\\Documents\\GitHub\\7897-Holo-Code\\FtcRobotController\\build\\intermediates\\res\\merged\\debug\\raw\\texture_vertex_shader.glsl",
-        "source": "C:\\Users\\7897\\Documents\\GitHub\\7897-Holo-Code\\FtcRobotController\\build\\intermediates\\exploded-aar\\RobotCore-release\\res\\raw\\texture_vertex_shader.glsl"
     },
     {
         "merged": "C:\\Users\\7897\\Documents\\GitHub\\7897-Holo-Code\\FtcRobotController\\build\\intermediates\\res\\merged\\debug\\raw\\warningmessage.wav",
         "source": "C:\\Users\\7897\\Documents\\GitHub\\7897-Holo-Code\\FtcRobotController\\build\\intermediates\\exploded-aar\\FtcCommon-release\\res\\raw\\warningmessage.wav"
     },
     {
-        "merged": "C:\\Users\\7897\\Documents\\GitHub\\7897-Holo-Code\\FtcRobotController\\build\\intermediates\\res\\merged\\debug\\raw\\cube_mesh_vertex_shader.glsl",
-        "source": "C:\\Users\\7897\\Documents\\GitHub\\7897-Holo-Code\\FtcRobotController\\build\\intermediates\\exploded-aar\\RobotCore-release\\res\\raw\\cube_mesh_vertex_shader.glsl"
+        "merged": "E:\\Android Studio\\Workspace\\7897-Holo-Code\\FtcRobotController\\build\\intermediates\\res\\merged\\debug\\raw\\cube_mesh_vertex_shader.glsl",
+        "source": "E:\\Android Studio\\Workspace\\7897-Holo-Code\\FtcRobotController\\build\\intermediates\\exploded-aar\\RobotCore-release\\res\\raw\\cube_mesh_vertex_shader.glsl"
     },
     {
-        "merged": "C:\\Users\\7897\\Documents\\Programming\\ftc_app-master\\ftc_app-master\\FtcRobotController\\build\\intermediates\\res\\merged\\debug\\raw\\warningmessage.wav",
-        "source": "C:\\Users\\7897\\Documents\\Programming\\ftc_app-master\\ftc_app-master\\FtcRobotController\\build\\intermediates\\exploded-aar\\FtcCommon-release\\res\\raw\\warningmessage.wav"
+        "merged": "E:\\Android Studio\\Workspace\\7897-Holo-Code\\FtcRobotController\\build\\intermediates\\res\\merged\\debug\\raw\\nxtstartupsound.wav",
+        "source": "E:\\Android Studio\\Workspace\\7897-Holo-Code\\FtcRobotController\\build\\intermediates\\exploded-aar\\FtcCommon-release\\res\\raw\\nxtstartupsound.wav"
     },
     {
         "merged": "C:\\Users\\JEDAM\\Documents\\GitHub\\7897-Holo-Code\\FtcRobotController\\build\\intermediates\\res\\merged\\debug\\raw\\warningmessage.wav",
         "source": "C:\\Users\\JEDAM\\Documents\\GitHub\\7897-Holo-Code\\FtcRobotController\\build\\intermediates\\exploded-aar\\FtcCommon-release\\res\\raw\\warningmessage.wav"
     },
     {
-        "merged": "C:\\Users\\JEDAM\\Documents\\GitHub\\7897-Holo-Code\\FtcRobotController\\build\\intermediates\\res\\merged\\debug\\raw\\texture_vertex_shader.glsl",
-        "source": "C:\\Users\\JEDAM\\Documents\\GitHub\\7897-Holo-Code\\FtcRobotController\\build\\intermediates\\exploded-aar\\RobotCore-release\\res\\raw\\texture_vertex_shader.glsl"
-    },
-    {
-        "merged": "C:\\Users\\7897\\Documents\\Programming\\ftc_app-master\\ftc_app-master\\FtcRobotController\\build\\intermediates\\res\\merged\\debug\\raw\\texture_vertex_shader.glsl",
-        "source": "C:\\Users\\7897\\Documents\\Programming\\ftc_app-master\\ftc_app-master\\FtcRobotController\\build\\intermediates\\exploded-aar\\RobotCore-release\\res\\raw\\texture_vertex_shader.glsl"
-    },
-    {
-        "merged": "C:\\Users\\7897\\Documents\\Programming\\ftc_app-master\\ftc_app-master\\FtcRobotController\\build\\intermediates\\res\\merged\\debug\\raw\\simple_vertex_shader.glsl",
-        "source": "C:\\Users\\7897\\Documents\\Programming\\ftc_app-master\\ftc_app-master\\FtcRobotController\\build\\intermediates\\exploded-aar\\RobotCore-release\\res\\raw\\simple_vertex_shader.glsl"
+        "merged": "C:\\Users\\7897\\Documents\\Programming\\ftc_app-master\\ftc_app-master\\FtcRobotController\\build\\intermediates\\res\\merged\\debug\\raw\\warningmessage.wav",
+        "source": "C:\\Users\\7897\\Documents\\Programming\\ftc_app-master\\ftc_app-master\\FtcRobotController\\build\\intermediates\\exploded-aar\\FtcCommon-release\\res\\raw\\warningmessage.wav"
     }
 ]

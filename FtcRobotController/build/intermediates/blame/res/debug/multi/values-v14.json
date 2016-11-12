@@ -26,6 +26,32 @@
         ]
     },
     {
+        "outputFile": "E:\\Android Studio\\Workspace\\7897-Holo-Code\\FtcRobotController\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v14\\values-v14.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 4,
+                    "endColumn": 12,
+                    "endOffset": 201
+                },
+                "from": {
+                    "file": "E:\\Android Studio\\Workspace\\7897-Holo-Code\\FtcRobotController\\src\\main\\res\\values-v14\\styles.xml",
+                    "position": {
+                        "startLine": 40,
+                        "startColumn": 4,
+                        "startOffset": 1909,
+                        "endLine": 42,
+                        "endColumn": 12,
+                        "endOffset": 2057
+                    }
+                }
+            }
+        ]
+    },
+    {
         "outputFile": "C:\\Users\\7897\\Documents\\Programming\\ftc_app-master\\FtcRobotController\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v14\\values-v14.xml",
         "map": [
             {

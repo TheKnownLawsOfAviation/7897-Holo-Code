@@ -12,6 +12,10 @@
         "source": "C:\\Users\\7897\\Documents\\GitHub\\7897-Holo-Code\\TeamCode\\build\\intermediates\\exploded-aar\\Inspection-release\\res\\menu\\main_menu.xml"
     },
     {
+        "merged": "E:\\Android Studio\\Workspace\\7897-Holo-Code\\TeamCode\\build\\intermediates\\res\\merged\\debug\\menu\\menu_server.xml",
+        "source": "E:\\Android Studio\\Workspace\\7897-Holo-Code\\TeamCode\\build\\intermediates\\exploded-aar\\Blocks-release\\res\\menu\\menu_server.xml"
+    },
+    {
         "merged": "C:\\Users\\JEDAM\\Documents\\GitHub\\7897-Holo-Code\\TeamCode\\build\\intermediates\\res\\merged\\debug\\menu\\main_menu.xml",
         "source": "C:\\Users\\JEDAM\\Documents\\GitHub\\7897-Holo-Code\\TeamCode\\build\\intermediates\\exploded-aar\\Inspection-release\\res\\menu\\main_menu.xml"
     },
@@ -20,7 +24,15 @@
         "source": "C:\\Users\\7897\\Documents\\GitHub\\7897-Holo-Code\\TeamCode\\build\\intermediates\\exploded-aar\\Blocks-release\\res\\menu\\menu_server.xml"
     },
     {
+        "merged": "E:\\Android Studio\\Workspace\\7897-Holo-Code\\TeamCode\\build\\intermediates\\res\\merged\\debug\\menu\\ftc_robot_controller.xml",
+        "source": "E:\\Android Studio\\Workspace\\7897-Holo-Code\\TeamCode\\build\\intermediates\\exploded-aar\\7897-Holo-Code\\FtcRobotController\\unspecified\\res\\menu\\ftc_robot_controller.xml"
+    },
+    {
         "merged": "C:\\Users\\JEDAM\\Documents\\GitHub\\7897-Holo-Code\\TeamCode\\build\\intermediates\\res\\merged\\debug\\menu\\ftc_robot_controller.xml",
         "source": "C:\\Users\\JEDAM\\Documents\\GitHub\\7897-Holo-Code\\TeamCode\\build\\intermediates\\exploded-aar\\7897-Holo-Code\\FtcRobotController\\unspecified\\res\\menu\\ftc_robot_controller.xml"
+    },
+    {
+        "merged": "E:\\Android Studio\\Workspace\\7897-Holo-Code\\TeamCode\\build\\intermediates\\res\\merged\\debug\\menu\\main_menu.xml",
+        "source": "E:\\Android Studio\\Workspace\\7897-Holo-Code\\TeamCode\\build\\intermediates\\exploded-aar\\Inspection-release\\res\\menu\\main_menu.xml"
     }
 ]
